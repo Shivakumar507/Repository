@@ -1,0 +1,9 @@
+package Com.oops;
+
+public class InheritanceMain {
+
+	public static void main(String[] args) {
+	
+	}
+
+}
